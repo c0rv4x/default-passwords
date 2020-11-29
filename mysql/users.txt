@@ -1,0 +1,7 @@
+admin
+asteriskuser
+cloudera
+dbuser
+mcUser
+moves
+root

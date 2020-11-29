@@ -1,0 +1,16 @@
+admin
+administrator
+Administrator
+demo
+IEUser
+instrument
+maxadmin
+maxreg
+mxintadm
+nmt
+openhabian
+root
+secure
+sonos
+user
+wasadmin
